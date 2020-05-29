@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "SpaceWar",
+  "uuid": "4f96f6b8-8f36-4dfa-904b-3452b6b94cb3",
+  "version": "2.3.3",
+  "id": "f72047d4-a063-4f2e-8620-9960afa38749",
+  "isNew": false
+}
